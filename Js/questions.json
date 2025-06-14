@@ -1,0 +1,91 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answers": [
+      { "text": "Earth" },
+      { "text": "Mars" },
+      { "text": "Saturn" },
+      { "text": "Jupiter" }
+    ],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Which is the most spoken language in the world?",
+    "answers": [
+      { "text": "English" },
+      { "text": "Arbaic" },
+      { "text": "Spanish" },
+      { "text": "Hindi" }
+    ],
+    "correctAnswer": "English"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "answers": [
+      { "text": "Newton" },
+      { "text": "Einstein" },
+      { "text": "Galileo" },
+      { "text": "Archimedes" }
+    ],
+    "correctAnswer": "Newton"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "answers": [
+      { "text": "O2" },
+      { "text": "CO2" },
+      { "text": "H2O" },
+      { "text": "NaCl" }
+    ],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "answers": [
+      { "text": "5" },
+      { "text": "6" },
+      { "text": "7" },
+      { "text": "8" }
+    ],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "What is the capital of France?",
+    "answers": [
+      { "text": "Rome" },
+      { "text": "Madrid" },
+      { "text": "Paris" },
+      { "text": "Berlin" }
+    ],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      { "text": "Michelangelo" },
+      { "text": "Van Gogh" },
+      { "text": "Leonardo da Vinci" },
+      { "text": "Picasso" }
+    ],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the smallest unit of matter?",
+    "answers": [
+      { "text": "Molecule", "state": false },
+      { "text": "Atom", "state": true },
+      { "text": "Electron", "state": false },
+      { "text": "Cell", "state": false }
+    ]
+  },
+  {
+    "question": "How many sides does a pentagon have?",
+    "answers": [
+      { "text": "4" },
+      { "text": "5" },
+      { "text": "6" },
+      { "text": "7" }
+    ],
+    "correctAnswer": "5"
+  }
+]
